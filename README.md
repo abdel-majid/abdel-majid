@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Full Stack Software Engineer 🚀 with 9+ years of experience building scalable web applications using Java, Spring, Angular, and Microservices. Skilled in delivering clean, maintainable code, optimizing performance, and collaborating in Agile teams to create impactful digital solutions.
+Passionate Full Stack Software Engineer 🚀 with 10+ years of experience building scalable web applications using Java, Spring, Angular, and Microservices. Skilled in delivering clean, maintainable code, optimizing performance, and collaborating in Agile teams to create impactful digital solutions.
 
 
 ## 🌐 Socials:
